@@ -1,5 +1,6 @@
-function mondai(){if(document.getElementById('kotae1').value=='徳川家康'){
-  alert('正解！解説へ飛ぶよ。');
-window.open("1.html");}
-  else {alert('はずれ');}
-}
+function hololive(){if(document.getElementById('kotae').value=='湊あくあ'){
+  alert('正解！');
+else {
+ alert ('はずれ!もう一度hololiveの公式サイトを見てみよう');
+ }
+} 
