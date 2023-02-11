@@ -1,4 +1,5 @@
-function FGO(){if(document.getElementById('kotae2').value=='2017年12月31日'){
+function FGO(){
+  if(document.getElementById('kotae2').value=='2015年'){
   alert('正解！');
 }
 else {
